@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c20ce2-e13e-495e-a844-0c72af397569" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.0e5688ea8566e5af134517ca9dc2364c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.b378a037.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.b378a037.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.6efc73d3.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.6efc73d3.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.84601115.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.84601115.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime~main.a8a9905a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime~main.a8a9905a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/logo.5d5d9eef.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -129,12 +114,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554219860534</updated>
-      <workItem from="1554219862011" duration="916000" />
+      <workItem from="1554219862011" duration="975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="916000" />
+    <option name="totallyTimeSpent" value="975000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -198,7 +183,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
