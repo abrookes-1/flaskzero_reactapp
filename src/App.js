@@ -4,7 +4,7 @@ import './App.css';
 import {
   Route,
   NavLink,
-  HashRouter
+  BrowserRouter
 } from "react-router-dom";
 
 import home from "./home";
@@ -13,7 +13,7 @@ import model from "./model";
 class App extends Component {
   render() {
     return (
-      <HashRouter>
+      <BrowserRouter>
       <div className="App">
         <ul className="header">
           <li><NavLink to="/">Home</NavLink></li>
@@ -25,7 +25,7 @@ class App extends Component {
         </div>
 
       </div>
-    </HashRouter>
+    </BrowserRouter>
     );
   }
 }
