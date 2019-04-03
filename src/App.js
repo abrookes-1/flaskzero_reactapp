@@ -11,7 +11,7 @@ import './App.css';
 import {
   Route,
   NavLink,
-  BrowserRouter
+  HashRouter
 } from "react-router-dom";
 
 import home from "./home";
@@ -20,6 +20,7 @@ import model from "./model";
 class App extends Component {
   render() {
     return (
+<<<<<<< HEAD
         <BrowserRouter>
 
           <Navbar bg="dark" variant="dark">
@@ -47,6 +48,21 @@ class App extends Component {
           {/*</div>*/}
 
         </BrowserRouter>
+=======
+      <HashRouter>
+      <div className="App">
+        <ul className="header">
+          <li><NavLink to="/">Home</NavLink></li>
+          <li><NavLink to="/model">Model</NavLink></li>
+        </ul>
+        <div className="content">
+          <Route exact path="/" component={home}/>
+          <Route exact path="/model" component={model}/>
+        </div>
+
+      </div>
+    </HashRouter>
+>>>>>>> parent of 91a6e98... changed hashrouter to browserrouter
     );
   }
 }
