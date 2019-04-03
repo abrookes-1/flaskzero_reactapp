@@ -27,7 +27,7 @@ class App extends Component {
             <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/model">SomeModel</Nav.Link>
-              <Nav.Link href="#pricing">Pricing</Nav.Link>
+              {/*<Nav.Link href="/pricing">Pricing</Nav.Link>*/}
             </Nav>
             <Form inline>
               <FormControl type="text" placeholder="Search" className="mr-sm-2" />
