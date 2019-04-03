@@ -38,7 +38,7 @@ class App extends Component {
           {/*<div className="App">*/}
             {/*<ul className="header">*/}
               {/*<li><NavLink to="/">Home</NavLink></li>*/}
-              {/*<li><NavLink to="/model">Model</NavLink></li>*/}
+              <li><NavLink to="/model">Model</NavLink></li>
             {/*</ul>*/}
             <div className="content">
               <Route exact path="/" component={home}/>
