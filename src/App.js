@@ -32,7 +32,7 @@ class App extends Component {
                 <Nav.Link>Home</Nav.Link>
               </LinkContainer>
               <LinkContainer to="/model">
-                <Nav.Link>Model</Nav.Link>
+                <Nav.Link>Some Model</Nav.Link>
               </LinkContainer>
               {/*<NavLink to="/">Home</NavLink>*/}
               {/*<NavLink to="/model">Model</NavLink>*/}

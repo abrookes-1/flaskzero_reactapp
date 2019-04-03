@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+#fullScreenFrame{
+  flex-grow: 1; border: none; margin: 0; padding: 0;
+  position: relative; height: 100%; width: 100%;
+}
